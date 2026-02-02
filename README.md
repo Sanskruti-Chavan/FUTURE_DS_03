@@ -109,7 +109,7 @@ This project demonstrates practical skills in **funnel analysis, conversion metr
 ## 📂 Access Files
 
 📄 **Analysis Report:**
-Marketing_Funnel_Conversion_Analysis_Report_Task_3.docx
+https://github.com/Sanskruti-Chavan/FUTURE_DS_03/blob/main/Marketing_Funnel_Conversion_Analysis_Code.pdf
 
 📓 **Jupyter Notebook:**
 Funnel_Analysis.ipynb
